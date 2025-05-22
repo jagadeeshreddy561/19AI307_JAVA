@@ -77,28 +77,3 @@ public class Main extends Person {
 ## RESULT:
 Thus the java program to find factorial of number using class and object concepts and apply the has-a relationship was executed successfully.
 
-4.	End
-
-## PROGRAM:
- ```
-/*
-Program to implement a IS-A RELATIONSHIP AND HAS-A RELATIONSHIP using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Sourcecode.java:
-
-
-
-
-
-
-
-## OUTPUT:
-
-
-
-## RESULT:
-Thus the java program to find factorial of number using class and object concepts and apply the has-a relationship was executed successfully.
